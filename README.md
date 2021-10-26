@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JHF101
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning C++, Computer Vision and CUDA.
 - 💞️ I’m looking to collaborate on any interesting projects.
 
