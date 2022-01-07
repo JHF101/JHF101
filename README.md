@@ -5,11 +5,11 @@
 - 💞️ I’m looking to collaborate on any interesting projects.
 
 <a href="https://github.com/JHF101">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHF101"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHF101&count_private=true"/>
 </a>
 
 <a href="https://github.com/JHF101">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=JHF101" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=JHF101&count_private=true" />
 </a>
 
 
