@@ -1,12 +1,13 @@
 # Hi, I am John-Henry (@JHF101) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://github.com/JHF101">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=JHF101&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHF101"/>
 </a>
 
 <a href="https://github.com/JHF101">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHF101"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=JHF101&count_private=true" />
 </a>
+
 
 <a href="https://github.com/JHF101/Digital_Filter_Synthesis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Digital_Filter_Synthesis" />
