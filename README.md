@@ -4,7 +4,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Digital_Filter_Synthesis)](https://github.com/JHF101/Digital_Filter_Synthesis)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHF101&hide=Jupyter Notebook)](https://github.com/JHF101)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHF101&hide="Jupyter Notebook")](https://github.com/JHF101)
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning C++, Computer Vision and CUDA.
 - 💞️ I’m looking to collaborate on any interesting projects.
