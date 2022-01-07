@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in AI and Machine Learning.
 - 🌱 I’m currently React.js.
-- 💞️ I’m looking to collaborate on any interesting projects.
+- 💞️ I’m looking to collaborate on any interesting projects. 
 
 <a href="https://github.com/JHF101">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHF101&count_private=true"/>
@@ -21,7 +21,7 @@
 </a>
 
 # Technologies and Tools
-<!-- Python -->
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=2bbc8a)
