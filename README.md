@@ -1,5 +1,9 @@
 # Hi, I am John-Henry (@JHF101) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+- 👀 I’m interested in AI and Machine Learning.
+- 🌱 I’m currently React.js.
+- 💞️ I’m looking to collaborate on any interesting projects.
+
 <a href="https://github.com/JHF101">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHF101"/>
 </a>
@@ -26,10 +30,5 @@
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a) -->
 
-
-
-- 👀 I’m interested in AI and Machine Learning.
-- 🌱 I’m currently React.js.
-- 💞️ I’m looking to collaborate on any interesting projects.
 
 
