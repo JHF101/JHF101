@@ -2,7 +2,10 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=JHF101&count_private=true&theme=radical" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Digital_Filter_Synthesis)](https://github.com/JHF101/Digital_Filter_Synthesis)
+<a href="https://github.com/anuraghazra/Digital_Filter_Synthesis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Digital_Filter_Synthesis" />
+</a>
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Digital_Filter_Synthesis)](https://github.com/JHF101/Digital_Filter_Synthesis) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHF101&layout=compact)](https://github.com/JHF101)
 - 👀 I’m interested in Machine Learning.
