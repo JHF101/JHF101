@@ -1,18 +1,19 @@
 # Hi, I am John-Henry (@JHF101)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=JHF101&count_private=true&theme=radical" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHF101&layout=compact&langs_count=8)](https://github.com/JHF101)
 
-<a href="https://github.com/anuraghazra/Digital_Filter_Synthesis">
+<a href="https://github.com/JHF101/Digital_Filter_Synthesis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Digital_Filter_Synthesis" />
 </a>
-<a href="https://github.com/anuraghazra/Even_Order_Analog_Filter_Builder">
+<a href="https://github.com/JHF101/Even_Order_Analog_Filter_Builder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Even_Order_Analog_Filter_Builder" />
 </a>
 
 <br>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Digital_Filter_Synthesis)](https://github.com/JHF101/Digital_Filter_Synthesis) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHF101&layout=compact&langs_count=8)](https://github.com/JHF101)
+
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning C++, Computer Vision and CUDA.
 - 💞️ I’m looking to collaborate on any interesting projects.
