@@ -1,7 +1,8 @@
 # Hi, I am John-Henry (@JHF101)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=JHF101&count_private=true&theme=radical" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHF101&layout=compact&langs_count=8)](https://github.com/JHF101)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHF101&layout=compact&langs_count=8"/>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHF101&layout=compact&langs_count=8)](https://github.com/JHF101) -->
 
 <a href="https://github.com/JHF101/Digital_Filter_Synthesis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Digital_Filter_Synthesis" />
