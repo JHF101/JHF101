@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @JHF101
+# Hi, I am John-Henry (@JHF101)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=JHF101&count_private=true&theme=radical" />
+
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning C++, Computer Vision and CUDA.
 - 💞️ I’m looking to collaborate on any interesting projects.
