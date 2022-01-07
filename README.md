@@ -18,9 +18,9 @@
 
 # Technologies and Tools
 <!-- Python -->
-![](https://img.shields.io/badge/Tools-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-<!-- C/C++ -->
-![](https://img.shields.io/badge/Tools-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 
 
 - 👀 I’m interested in Machine Learning.
