@@ -16,11 +16,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Even_Order_Analog_Filter_Builder" />
 </a>
 
-<br>
+![](https://img.shields.io/badge/<Tools>-<Python>-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
+
 
 
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning C++, Computer Vision and CUDA.
+- 🌱 I’m currently React.js
 - 💞️ I’m looking to collaborate on any interesting projects.
 
 
