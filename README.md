@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=JHF101&count_private=true&theme=radical" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Digital_Filter_Synthesis)](https://github.com/JHF101/Digital_Filter_Synthesis)
 
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning C++, Computer Vision and CUDA.
