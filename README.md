@@ -1,7 +1,7 @@
 # Hi, I am John-Henry (@JHF101) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👀 I’m interested in AI and Machine Learning.
-- 🌱 I’m currently React.js.
+- 🌱 I’m currently learning React.js.
 - 💞️ I’m looking to collaborate on any interesting projects. 
 
 <a href="https://github.com/JHF101">
