@@ -41,11 +41,11 @@
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=2bbc8a)
 
 <!-- Web Dev  -->
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Code-EJS-informational?style=flat&logo=EJS&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/EJS-informational?style=flat&logo=EJS&logoColor=white&color=2bbc8a) 
 
 <!-- Machine Learning -->
 <!-- ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
