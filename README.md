@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/REST-informational?style=flat&logo=REST&logoColor=white&color=2bbc8a) 
+<!-- Django/Dash/OpenSSL -->
 
 <!-- Databases -->
 ![](https://img.shields.io/badge/InfluxDB-informational?style=flat&logo=InfluxDB&logoColor=white&color=2bbc8a) 
@@ -52,6 +52,7 @@
 ![](https://img.shields.io/badge/ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=2bbc8a) 
 
 <!-- Networking -->
+![](https://img.shields.io/badge/Bash-informational?style=flat&logo=Bash&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a) 
 
 <!-- Game Dev -->
