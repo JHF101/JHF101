@@ -52,7 +52,7 @@
 ![](https://img.shields.io/badge/ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=2bbc8a) 
 
 <!-- Networking -->
-![](https://img.shields.io/badge/Bash-informational?style=flat&logo=Bash&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a) 
 
 <!-- Game Dev -->
