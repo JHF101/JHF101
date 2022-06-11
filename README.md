@@ -9,7 +9,7 @@
 
 - ⚡ I have worked with Control Systems, Digital Signal Processing, Computer Vision, Embedded Platforms and Web Dev. 
 
-<h3 align="left">Connect with me</h3>
+<h2 align="left">Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/john-henry-faul-83b179207" target="blank">
     <img align="center" 
@@ -20,8 +20,7 @@
 </a>
 </p>
 
-<h3 align="left"> Some of my repositories</h3>
-<hr>
+<h2 align="left"> Some of my repositories</h2>
 
 <a href="https://github.com/JHF101/nnfs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=nnfs" width = "48%" height = 200px/>
@@ -37,7 +36,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Even_Order_Analog_Filter_Builder" width = "48%" height = 200px/>
 </a>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools</h2>
 <p align="left"> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -143,7 +142,7 @@
     </a> 
 </p>
 
-<!-- <h3 align="left"> Stats </h3> -->
+<h2 align="left"> Stats </h2>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=jhf101&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="jhf101" width = "48%" height = 200px/>
 </p>
