@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhf101" alt="jhf101" /></a> </p> -->
 
-- 🔭 I’m currently working on [neural network from scratch](https://github.com/JHF101/nnfs)
+- 🔭 I’m currently working on [neural networks from scratch](https://github.com/JHF101/nnfs)
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
