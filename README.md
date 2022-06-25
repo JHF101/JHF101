@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [neural networks from scratch](https://github.com/JHF101/nnfs)
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **Transformer Networks**, **Graphical Models** and **Reinforcement Learning**
 
 - ⚡ I have worked with Control Systems, Digital Signal Processing, Computer Vision, Embedded Platforms and Web Dev. 
 
