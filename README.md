@@ -29,7 +29,7 @@
 | Digital Filter Synthesis | https://github.com/JHF101/Digital_Filter_Synthesis  |
 | Even Order Analog FilterBuilder | https://github.com/JHF101/Even_Order_Analog_Filter_Builder |
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">My Languages and Tools</h2>
 <p align="left"> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -136,9 +136,9 @@
 </p>
 
 <h2 align="left"> Stats </h2>
-<p>
+<!-- <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=jhf101&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="jhf101" width = "48%" height = 200px/>
-</p>
+</p> -->
 
 <p>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jhf101&theme=dark" alt="jhf101" width = "48%" height = 200px/>
@@ -146,6 +146,6 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhf101&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="jhf101"/>
-</p>
+</p> -->
