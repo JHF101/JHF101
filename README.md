@@ -22,19 +22,13 @@
 
 <h2 align="left"> Some of my repositories</h2>
 
-<a href="https://github.com/JHF101/nnfs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=nnfs" width = "48%" height = 200px/>
-</a>
-<a href="https://github.com/JHF101/Computer_Vision_Pong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Computer_Vision_Pong" width = "48%" height = 200px/>
-</a>
+| Project Name            | Links                                                 |
+|-------------------------|---------------------------------------------------|
+| Neural Networks from Scratch                     | https://github.com/JHF101/nnfs                      |
+| Computer Vision Pong     | https://github.com/JHF101/Computer_Vision_Pong      |
+| Digital Filter Synthesis | https://github.com/JHF101/Digital_Filter_Synthesis  |
+| Even Order Analog FilterBuilder | https://github.com/JHF101/Even_Order_Analog_Filter_Builder |
 
-<a href="https://github.com/JHF101/Digital_Filter_Synthesis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Digital_Filter_Synthesis" width = "48%" height = 200px/>
-</a>
-<a href="https://github.com/JHF101/Even_Order_Analog_Filter_Builder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JHF101&repo=Even_Order_Analog_Filter_Builder" width = "48%" height = 200px/>
-</a>
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left"> 
