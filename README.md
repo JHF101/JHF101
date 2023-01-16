@@ -21,8 +21,8 @@
 </p>
 
 <h2 align="left"> Some of my repositories</h2>
-<div style="width: 100%">
 
+<div style="width: 100%;">
 | Project Name            | Links                                                 |
 |-------------------------|---------------------------------------------------|
 | Neural Networks from Scratch                     | https://github.com/JHF101/nnfs                      |
