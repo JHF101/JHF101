@@ -21,6 +21,7 @@
 </p>
 
 <h2 align="left"> Some of my repositories</h2>
+<div style="width: 100%">
 
 | Project Name            | Links                                                 |
 |-------------------------|---------------------------------------------------|
@@ -28,7 +29,7 @@
 | Computer Vision Pong     | https://github.com/JHF101/Computer_Vision_Pong      |
 | Digital Filter Synthesis | https://github.com/JHF101/Digital_Filter_Synthesis  |
 | Even Order Analog FilterBuilder | https://github.com/JHF101/Even_Order_Analog_Filter_Builder |
-
+</div>
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left"> 
